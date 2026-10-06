@@ -1,0 +1,7 @@
+print('n=2')
+print('creioane')
+print('foi')
+print('4*2+3')
+print('3*2+7')
+print('11 creioane')
+print('13 foi')
